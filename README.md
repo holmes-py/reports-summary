@@ -1,3 +1,11 @@
+#### Links to refer for more information:
+>https://github.com/reddelexc/hackerone-reports
+>https://www.bugbountyhunter.com/disclosed/
+>https://hackerone.com/hacktivity/cwe_discovery?id=cwe-284
+
+All of these are taken from reddelexc’s repo which indexes all top reports on h1, I am straight up taking those, reading them one by one, and adding summaries here.   
+
+### DoS attacks Reports  
 
 •	[DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal
 -	Added `any-header: burpcollaborator.net` leads to site cache on that parameter getting poisoned and leads to DoS. 
